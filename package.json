@@ -5,7 +5,6 @@
   "main": "./build/main.js",
   "scripts": {
     "dev": "zx ./scripts/dev.mjs",
-    "start": "snowpack dev --config ./src/snowpack-render.cfg.mjs",
     "build": "zx ./scripts/build.mjs",
     "test": "echo \"This template does not include a test runner by default.\" && exit 1"
   },
