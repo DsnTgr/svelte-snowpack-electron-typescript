@@ -1,4 +1,4 @@
-React-Snowpack-Electron-Typescript
+Svelte-Snowpack-Electron-Typescript
 ====
 It's the demo that build a desktop application with Svelte, Snowpack, Electron and Typescript. 
 
