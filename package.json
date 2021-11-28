@@ -1,5 +1,5 @@
 {
-  "name": "react-snowpack-electron-typescript",
+  "name": "svelte-snowpack-electron-typescript",
   "version": "0.0.1",
   "author": "Dison Tangor <disontangor@gmail.com>",
   "main": "./build/main.js",
